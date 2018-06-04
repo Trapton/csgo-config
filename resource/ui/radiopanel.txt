@@ -1,0 +1,172 @@
+"RadioPanel.txt"
+{
+
+//"SFUI_StandardRadio"
+//"SFUI_GroupRadio"	
+//"SFUI_ReportRadio"	
+	"Groups"
+	{
+		"standard"
+		{
+			"hotkey"	"1"
+			"title"	"#SFUI_CommandRadio"
+			"timeout"	"5"
+			
+			"Commands"
+			{
+				"go"
+				{
+					"hotkey"	"1"
+					"label"	"#SFUI_Radio_Go"
+					"cmd"	"go"
+				}
+				
+				"fallback"
+				{
+					"hotkey"	"2"
+					"label"	"#SFUI_Radio_Fall_Back"
+					"cmd"	"fallback"
+				}
+				
+				"sticktog"
+				{
+					"hotkey"	"3"
+					"label"	"#SFUI_Radio_Stick_Together"
+					"cmd"	"sticktog"
+				}
+				
+				"holdpos"
+				{
+					"hotkey"	"4"
+					"label"	"#SFUI_Radio_Hold_Pos"
+					"cmd"	"holdpos"
+				}
+				
+				"followme"
+				{
+					"hotkey"	"5"
+					"label"	"#SFUI_Radio_Follow"
+					"cmd"	"followme"
+				}
+			}
+		}
+		
+		"group"
+		{
+			"hotkey"	"2"
+			"title"	"#SFUI_StandardRadio"
+			"timeout"	"5"
+			
+			"Commands"
+			{
+				"roger"
+				{
+					"hotkey"	"1"
+					"label"	"#SFUI_Radio_Roger"
+					"cmd"	"roger"
+				}
+				
+				"negative"
+				{
+					"hotkey"	"2"
+					"label"	"#SFUI_Radio_Negative"
+					"cmd"	"negative"
+				}
+				
+				"cheer"
+				{
+					"hotkey"	"3"
+					"label"	"#SFUI_Radio_Cheer"
+					"cmd"	"cheer"
+				}
+				
+				"compliment"
+				{
+					"hotkey"	"4"
+					"label"	"#SFUI_Radio_Compliment"
+					"cmd"	"compliment"
+				}
+				
+				"thanks"
+				{
+					"hotkey"	"5"
+					"label"	"#SFUI_Radio_Thanks"
+					"cmd"	"thanks"
+				}
+			}
+		}
+		
+		"report"
+{
+			"hotkey"	"3"
+			"title"	"Buymenu"
+			"timeout"	"30"
+			
+			"Commands"
+			{
+				"radio31"
+				{
+					"hotkey"	"1"
+					"label"	"950$                 - Kevlar + P250"
+					"cmd"	"buy1"
+				}
+				
+				"radio32"
+				{
+					"hotkey"	"2"
+					
+					"label"	"2050$ / 2250$        - Helm + MP9/Mac"
+					"cmd"	"buy2"
+				}
+
+				"radio33"
+				{
+					"hotkey"	"3"
+					"label"	"3700$ / 4100$        - Helm + AK/M4"
+					"cmd"	"buy3"
+				}
+
+				"radio34"
+				{
+					"hotkey"	"4"
+					"label"	"3000$ / 3350$        - Helm + Famas/Galil"
+					"cmd"	"buy4"
+				}
+
+				"radio35"
+				{
+					"hotkey"	"5"
+					"label"	"5750$                - Helm + AWP"
+					"cmd"	"buy5"
+				}
+
+				"radio36"
+				{
+					"hotkey"	"6"
+					"label"	"1000$                - Kevlar + Helm"
+					"cmd"	"buy6"
+				}
+				
+				"radio37"
+				{
+					"hotkey"	"7"
+					"label"	"1000$                - FSGF Grenades"
+					"cmd"	"buy7"
+				}
+
+				"radio38"
+				{
+					"hotkey"	"8"
+					"label"	"400$                 - Defuser"
+					"cmd"	"buy8"
+				}
+				"radio39"
+				{
+					"hotkey"	"9"
+					"label"	"650$                 - Rebuy Kevlar"
+					"cmd"	"buy9"
+				}
+			}
+		}
+	}
+}
