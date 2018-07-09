@@ -107,7 +107,7 @@
 				"radio31"
 				{
 					"hotkey"	"1"
-					"label"	"950$                 - Kevlar + P250"
+					"label"	"                    950$  -  Kevlar + P250"
 					"cmd"	"buy1"
 				}
 				
@@ -115,55 +115,55 @@
 				{
 					"hotkey"	"2"
 					
-					"label"	"2050$ / 2250$        - Helm + MP9/Mac"
+					"label"	"2050$ / 2250$  -  Helm + MP9/Mac"
 					"cmd"	"buy2"
 				}
 
 				"radio33"
 				{
 					"hotkey"	"3"
-					"label"	"3700$ / 4100$        - Helm + AK/M4"
+					"label"	"  3700$ / 4100$  -  Helm + AK/M4"
 					"cmd"	"buy3"
 				}
 
 				"radio34"
 				{
 					"hotkey"	"4"
-					"label"	"3000$ / 3350$        - Helm + Famas/Galil"
+					"label"	"3000$ / 3350$  -  Helm + Famas/Galil   "
 					"cmd"	"buy4"
 				}
 
 				"radio35"
 				{
 					"hotkey"	"5"
-					"label"	"5750$                - Helm + AWP"
+					"label"	"                 5750$  -  Helm + AWP"
 					"cmd"	"buy5"
 				}
 
 				"radio36"
 				{
 					"hotkey"	"6"
-					"label"	"1000$                - Kevlar + Helm"
+					"label"	"                 1000$  -  Kevlar + Helm"
 					"cmd"	"buy6"
 				}
 				
 				"radio37"
 				{
 					"hotkey"	"7"
-					"label"	"1000$                - FSGF Grenades"
+					"label"	"                  1000$  -  FSGF Grenades"
 					"cmd"	"buy7"
 				}
 
 				"radio38"
 				{
 					"hotkey"	"8"
-					"label"	"400$                 - Defuser"
+					"label"	"                   400$  -  Defuser"
 					"cmd"	"buy8"
 				}
 				"radio39"
 				{
 					"hotkey"	"9"
-					"label"	"650$                 - Rebuy Kevlar"
+					"label"	"                   650$  -  Rebuy Kevlar"
 					"cmd"	"buy9"
 				}
 			}
