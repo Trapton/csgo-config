@@ -115,7 +115,7 @@
 				{
 					"hotkey"	"2"
 					
-					"label"	"2050$ / 2250$  -  Helm + MP9/Mac"
+					"label"	"2250$ / 2050$  -  Helm + MP9/Mac"
 					"cmd"	"buy2"
 				}
 
@@ -129,7 +129,7 @@
 				"radio34"
 				{
 					"hotkey"	"4"
-					"label"	"3000$ / 3350$  -  Helm + Famas/Galil   "
+					"label"	"3050$ / 2800$  -  Helm + Famas/Galil   "
 					"cmd"	"buy4"
 				}
 
